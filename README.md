@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2> Hey there! I'm Mark Loegel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!--
-**meloegel/meloegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently learning at Lambda School
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Love to learn and expand my knowledge in computer science.
+- 💼 &nbsp; Full-stack web developer.
+- ✍️ &nbsp; Love reading for fun and am a definite cinephile.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+* = Some expereince
+- 💻 &nbsp; Python | Javascript | C* 
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node
+- 🛢 &nbsp; MySQL | Postgres | SQLite
+- 🔧 &nbsp;  Visual Studio code | Brackets* | Atom* | Git
+- 🖥 &nbsp; Illustrator* | Photoshop* 
+
+<br>
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/mark-loegel/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:meloegel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [meloegel](https://github.com/meloegel)
