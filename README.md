@@ -12,13 +12,14 @@
 
 <h3>🛠 Tech Stack</h3>
 
-* = Some expereince
+
 - 💻 &nbsp; Python | Javascript | C* 
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | Node
 - 🛢 &nbsp; MySQL | Postgres | SQLite
 - 🔧 &nbsp;  Visual Studio code | Brackets* | Atom* | Git
 - 🖥 &nbsp; Illustrator* | Photoshop* 
 
+'*' = Some expereince
 <br>
 
 
