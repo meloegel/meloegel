@@ -13,9 +13,10 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Python | Javascript | C* 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node
-- 🛢 &nbsp; MySQL | Postgres | SQLite
+- 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS | C*
+- 🌐 &nbsp; Front End: React | Redux | Context | MaterialUI | BootStrap & ReactStrap | Styled-Components
+- 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL*
+- ☕ &nbsp; Testing: Cypress.io | Jest | Supertest | React-Testing Library
 - 🔧 &nbsp;  Visual Studio code | Brackets* | Atom* | Git
 - 🖥 &nbsp; Illustrator* | Photoshop* 
 
