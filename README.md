@@ -3,6 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 🖥  &nbsp; I am currently working on Bridges to Prosperity
 - 🔭 &nbsp; I’m currently learning at Lambda School
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Love to learn and expand my knowledge in computer science.
@@ -13,12 +14,12 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS | C*
+- 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS 
 - 🌐 &nbsp; Front End: React | Redux | Context | MaterialUI | BootStrap & ReactStrap | Styled-Components
-- 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL*
+- 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL
 - ☕ &nbsp; Testing: Cypress.io | Jest | Supertest | React-Testing Library
 - 🔧 &nbsp;  Visual Studio code | Brackets* | Atom* | Git
-- 🖥 &nbsp; Illustrator* | Photoshop* 
+
 
 '*' = Some expereince
 <br>
