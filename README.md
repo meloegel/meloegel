@@ -18,7 +18,7 @@
 - 🌐 &nbsp; Front End: React | Redux | Context | MaterialUI | BootStrap & ReactStrap | Styled-Components
 - 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL
 - ☕ &nbsp; Testing: Cypress.io | Jest | Supertest | React-Testing Library
-- 🔧 &nbsp;  Visual Studio code | Brackets | Atom | Git
+- 🔧 &nbsp;  Visual Studio Code | Brackets | Atom | Git
 
 <br>
 
