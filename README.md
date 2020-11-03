@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🖥  &nbsp; I am currently working on Bridges to Prosperity
-- 🔭 &nbsp; I learned full stack development from Lambda School
+- 🔭 &nbsp; I learned full stack web development from Lambda School
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Love to learn and expand my knowledge in computer science.
 - 💼 &nbsp; Full-stack web developer.
