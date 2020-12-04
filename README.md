@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS 
+- 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS | <li><i className="fab fa-less"></i> LESS</li>
 - 🌐 &nbsp; Front End: React | Redux | Context | MaterialUI | BootStrap & ReactStrap | Styled-Components
 - 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL
 - ☕ &nbsp; Testing: Cypress.io | Jest | Supertest | React-Testing Library
