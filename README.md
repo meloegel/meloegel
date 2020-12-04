@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Love to learn and expand my knowledge in computer science.
 - 💼 &nbsp; Full-stack web developer.
 - ✍️ &nbsp; Love reading for fun and am a definite cinephile.
-<br>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS | LESS | SASS | SQL
