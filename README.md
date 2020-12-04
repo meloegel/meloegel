@@ -14,11 +14,11 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS | <li><i className="fab fa-less"></i> LESS</li>
-- 🌐 &nbsp; Front End: React | Redux | Context | MaterialUI | BootStrap & ReactStrap | Styled-Components
-- 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL
+- 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS | LESS | SASS | SQL
+- 🌐 &nbsp; Front End: React | Redux | Context | Material UI | BootStrap & ReactStrap | Styled-Components | Plotly-JS | Ant Design | Semantic UI | MapBox
+- 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL | Nodemon
 - ☕ &nbsp; Testing: Cypress.io | Jest | Supertest | React-Testing Library
-- 🔧 &nbsp;  Visual Studio Code | Brackets | Atom | Git
+- 🔧 &nbsp;  Visual Studio Code | Brackets | Atom | Git | Docker | RESTful API | npm | Agile Project Management
 
 <br>
 
