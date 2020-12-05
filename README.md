@@ -25,6 +25,7 @@
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/mark-loegel/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" align="left"/></a>
 &nbsp; <a href="mailto:meloegel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" align="left" /></a>
+  &nbsp; <a href="markloegel.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://static.thenounproject.com/png/286716-200.png"  width="50" align="left" /></a>
 </p>
 
 <br>
