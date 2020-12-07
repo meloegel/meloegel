@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🖥  &nbsp; I am currently working on Run Tracker
+- 🖥  &nbsp; I am currently working on My Library
 - 🔭 &nbsp; I studied full stack web development at Lambda School
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Love to learn and expand my knowledge in computer science.
