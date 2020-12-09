@@ -25,7 +25,7 @@
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/mark-loegel/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" align="left"/></a>
 &nbsp; <a href="mailto:meloegel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" align="left" /></a>
-  &nbsp;<div><a href="markloegel.vercel.app" target="_blank" rel="noopener noreferrer"><br><img src="https://cdn1.iconfinder.com/data/icons/big-business/512/Briefcase-512.png"  width="50" align="left"><br>Portfolio<br></a></div>
+  &nbsp;<div><a href="markloegel.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/big-business/512/Briefcase-512.png"  width="50" align="left"></a></div>
 
 <br>
 
