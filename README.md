@@ -17,6 +17,7 @@
 - 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL | Nodemon
 - ☕ &nbsp; Testing: Cypress.io | Jest | Supertest | React-Testing Library
 - 🔧 &nbsp;  Visual Studio Code | Brackets | Atom | Git | Docker | RESTful API | npm | Agile Project Management
+- 🤔 &nbsp; Currenly Learning: Ruby on Rails
 
 <br>
 
