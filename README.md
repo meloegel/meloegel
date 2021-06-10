@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Love to learn and expand my knowledge in computer science.
 - 💼 &nbsp; Full-stack web developer.
-- ✍️ &nbsp; Love reading for fun and am a definite cinephile.
+- ✍️ &nbsp; Love reading for fun and watching movies
 <br>
 <h3>🛠 Tech Stack</h3>
 
