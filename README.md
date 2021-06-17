@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🖥  &nbsp; I am currently working on National Parks
-- 🔭 &nbsp; I studied full stack web development at Lambda School
+- 🔭 &nbsp; I studied web development at Lambda
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Love to learn and expand my knowledge in computer science.
 - 💼 &nbsp; Full-stack web developer.
