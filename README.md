@@ -10,6 +10,7 @@
 - 💼 &nbsp; Full-stack web developer.
 - ✍️ &nbsp; Love reading for fun, watching movies and playing golf
 <br>
+<br>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Core Skills: Python | Javascript | HTML | CSS | LESS | SASS | SQL
