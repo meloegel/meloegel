@@ -17,7 +17,7 @@
 - 🌐 &nbsp; Front End: React | Redux | Context | Material UI | BootStrap & ReactStrap | Styled-Components | Plotly-JS | Ant Design | Semantic UI | MapBox
 - 🛢 &nbsp; Backend: Node | Express | Postgres | SQLite | GraphQL | Nodemon
 - ☕ &nbsp; Testing: Cypress.io | Jest | Supertest | React-Testing Library
-- 🔧 &nbsp;  Visual Studio Code | Brackets | Atom| IntelliJ | Git | Docker | RESTful API | npm | Agile Project Management
+- 🔧 &nbsp;  Visual Studio Code | Brackets | Atom | IntelliJ | Git | Docker | RESTful API | npm | Agile Project Management
 - 🤔 &nbsp; Currenly Learning: Java
 
 <br>
